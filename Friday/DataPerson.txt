@@ -1,0 +1,5 @@
+|<Nickname>|<Location>||Olya|Brest|
+|Vlad|Minsk|
+|Matvey|Omsk|
+|Oleg|Orsha|
+|Misha|Minsk|
